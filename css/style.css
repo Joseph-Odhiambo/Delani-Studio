@@ -10,3 +10,13 @@
     padding-bottom: 2%;
     font-family: 'Gabriela', serif;
   }
+  /* styling about us section */
+  .about{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top:40px;
+    font-family: 'Copse', serif;
+  }
+  #about{
+    font-family: 'Gabriela', serif;
+  }
