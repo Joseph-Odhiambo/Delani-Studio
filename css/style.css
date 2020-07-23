@@ -20,3 +20,23 @@
   #about{
     font-family: 'Gabriela', serif;
   }
+  /* styling the services section */
+  .services{
+    text-align: center;
+    background-image: url("../images/backgrounds/s_image.jpg");
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Copse', serif;
+    font-size: 18px;
+  }
+  .services h2{
+    font-family: 'Gabriela', serif;
+    
+  }
+  #servicesoverlay{
+    background-color: rgba(27, 27, 27, 0.3);
+    padding-top: 8%;
+    padding-bottom: 8%;
+  }
