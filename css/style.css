@@ -24,6 +24,12 @@
   margin-top: 10%;
   padding-bottom: 25px;
 }
+#logo{
+  margin-top: 12px;
+  margin-bottom: 24px;
+  width: 70px;
+  height: 70px;;
+}
 
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
@@ -85,4 +91,7 @@
 #desidn .title, #development .title, #product .title{
   font-size: 20px;
   font-weight: 600;
+}
+.title{
+  padding: 6px;
 }
