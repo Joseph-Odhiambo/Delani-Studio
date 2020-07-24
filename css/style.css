@@ -88,11 +88,11 @@
   padding-top: 40px;
   font-family: 'Gabriela', serif;
 }
-  #design, #development, #product{
-    display: none;
-    font-family: 'Copse', serif;
-    font-size: 16px;
-  }
+#design, #development, #product{
+  display: none;
+  font-family: 'Copse', serif;
+  font-size: 16px;
+}
 #desidn .title, #development .title, #product .title{
   font-size: 20px;
   font-weight: 600;
@@ -265,7 +265,7 @@ input[type=text],input[type=email],#comment{
   width: 60%;
 }
 button{
-  margin-left: 20%;
+  align-items: center;
   padding-bottom: 30px;
   margin-bottom: 20px;
 }
