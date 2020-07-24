@@ -12,7 +12,7 @@ This project is a web application for Delani studio that shows details about the
 <img src="https://raw.githubusercontent.com/Joseph-Odhiambo/Delani-Studio/master/screenshot/Screenshot%20from%202020-07-24%2008-50-45.png# Delani-Studio" width="900px" height="440px">
 
 ## Live Page 
-
+https://joseph-odhiambo.github.io/Delani-Studio/
 
 
 ## Installation / Setup instruction
@@ -52,6 +52,6 @@ If you have any question or contributions, please email me at [josephkdo@gmail.c
 
 ## License
 * *MIT License:*
-* [LICENCE](LICENCE)
-* Copyright (c) 2020 **Joseph Odhiambo**
+* {Determine the license under which this application can be used.  See below for more details on licensing.}*[LICENSE](LICENSE)
+* Copyright (c) 2020 **Joseph Odhiambo*
 
