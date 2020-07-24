@@ -37,10 +37,10 @@ This project is a web application for Delani studio that shows details about the
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Owiti Charles |     |
-| Enter your Email Address  | mikeycharlesm7@gmail.com |   |
+|  Enter your name  |   Joseph Odhiambo |     |
+| Enter your Email Address  | josephkdo@gmail.com.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "Joseph Odhiambo , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
