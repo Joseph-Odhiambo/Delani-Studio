@@ -76,7 +76,7 @@ $(document).ready(function(){
 //form input validation
 $(document).ready(function(){
   $("form#formValidity").submit(function(event){
-    // event.preventDefault();
+    
     var name = $("input#MERGE1").val();
     var email = $("input#MERGE0").val();
     var message = $("textarea#comment").val();
@@ -88,5 +88,5 @@ $(document).ready(function(){
     }
     
   });
-
+  event.preventDefault();
 });
