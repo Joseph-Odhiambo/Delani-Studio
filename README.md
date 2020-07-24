@@ -52,5 +52,6 @@ If you have any question or contributions, please email me at [josephkdo@gmail.c
 
 ## License
 * *MIT License:*
+* [LICENCE](LICENCE)
 * Copyright (c) 2020 **Joseph Odhiambo**
 
