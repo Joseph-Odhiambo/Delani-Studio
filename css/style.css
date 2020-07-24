@@ -120,10 +120,10 @@
 }
 #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
   display: none;
-  color: black;
+  color: rgb(24, 25, 26);
   width: 100%;
   height: 100%;
-  background-color:rgba(255, 255, 255, 0.456);
+  background-color:rgba(255, 255, 255, 0.6);
   position:absolute;
   top: 20px;
   left: 35px;
@@ -131,7 +131,7 @@
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: 'Delius Swash Caps', cursive;
+  font-family: 'Merriweather Sans', sans-serif;
 }
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
