@@ -8,9 +8,7 @@ $(document).ready(function(){
       $("#design").slideUp();
       $("#design-image").slideDown();
     });
-  });
-$(document).ready(function(){
-    $("#development-image").click(function(){
+     $("#development-image").click(function(){
       $("#development-image").slideDown().hide()
       $("#development").show();
     });
@@ -18,17 +16,16 @@ $(document).ready(function(){
       $("#development").slideUp();
       $("#development-image").slideDown();
     });
-});
-$(document).ready(function(){
-  $("#product-image").click(function(){
-    $("#product-image").slideDown().hide()
-    $("#product").show();
+      $("#product-image").click(function(){
+      $("#product-image").slideDown().hide()
+      $("#product").show();
+    });
+    $("#product").click(function(){
+      $("#product").slideUp();
+      $("#product-image").slideDown();
+    });
   });
-  $("#product").click(function(){
-    $("#product").slideUp();
-    $("#product-image").slideDown();
-  });
-});
+
 //poertfolio text overlay images
 $(document).ready(function(){
   $("#work1").mouseover(function(){
@@ -80,7 +77,7 @@ $(document).ready(function(){
     var name = $("input#MERGE1").val();
     var email = $("input#MERGE0").val();
     var message = $("textarea#comment").val();
-    if ($("input#MERGE1").val() && $("input#MERGE0").val()){
+    if (name && email){
       alert (name + ", we have received your message. Thank you for reaching out to us.");
     }
     else {
