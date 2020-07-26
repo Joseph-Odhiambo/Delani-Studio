@@ -26,7 +26,7 @@ $(document).ready(function(){
     });
   });
 
-//poertfolio text overlay images
+// poertfolio text overlay images
 $(document).ready(function(){
   $("#work1").mouseover(function(){
     $("#overlay").show();
